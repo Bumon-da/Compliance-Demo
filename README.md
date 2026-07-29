@@ -209,5 +209,41 @@ The project is intended as a foundation for future research into enterprise-grad
 
 ## License
 
-This project is intended for educational and research 
+This project is intended for educational and research purposes.#
 
+## UPDATING THE README FILE 
+
+                          AI-Augmented Interbank Compliance Network
+
+                   ┌──────────────────────────────────────────────┐
+                   │               Bank A System                  │
+                   └──────────────────────────────────────────────┘
+                                      │
+                                      │ Transaction Request
+                                      ▼
+                       ┌──────────────────────────────────┐
+                       │      Compliance API Gateway      │
+                       │           (FastAPI)              │
+                       └──────────────────────────────────┘
+                                      │
+                 ┌────────────────────┼────────────────────┐
+                 │                    │                    │
+                 ▼                    ▼                    ▼
+      Entity Resolution      ML Risk Prediction      Blockchain Service
+      + Feature Creation      + SHAP Explainability      + Smart Contract
+                 │                    │                    │
+                 └────────────────────┼────────────────────┘
+                                      ▼
+                          Compliance Decision Engine
+                                      │
+                                      ▼
+                       Store Explanation + Decision Hash
+                                      │
+                                      ▼
+                          Hyperledger Fabric / Quorum
+                                      │
+                                      ▼
+                           Other Banks Read Signal
+                                      │
+                                      ▼
+                           Dashboard & Audit Logs
