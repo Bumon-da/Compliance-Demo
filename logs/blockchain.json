@@ -82,5 +82,47 @@
             }
         ],
         "hash": "44212a06d893563ff2004005ee0b60d32e0bf5cfd7ef2aad164a83a7897cd429"
+    },
+    {
+        "transaction_id": "TX00003",
+        "timestamp": "2026-07-29T22:33:42",
+        "customer": {
+            "name": "Jon Smith",
+            "dob": "1992-06-15",
+            "country": "Germany",
+            "amount": 25000
+        },
+        "prediction": {
+            "prediction": "FALSE POSITIVE",
+            "prediction_id": 0,
+            "confidence": 0.98,
+            "probabilities": {
+                "false_positive": 0.98,
+                "real_risk": 0.02
+            }
+        },
+        "top_factors": [
+            {
+                "feature": "amount",
+                "impact": 0.1558
+            },
+            {
+                "feature": "previous_history",
+                "impact": 0.1354
+            },
+            {
+                "feature": "country_risk",
+                "impact": 0.1296
+            },
+            {
+                "feature": "name_similarity",
+                "impact": -0.0421
+            },
+            {
+                "feature": "dob_match",
+                "impact": -0.002
+            }
+        ],
+        "hash": "8bb9fe865c4a8a37bead04467f031df7ea2480302e7ede4c1d05033cb365b377"
     }
 ]
