@@ -1,0 +1,21 @@
+id,name,dob,country,risk_level,sanction_list
+WL001,John Smith,1992-06-15,North Korea,HIGH,OFAC
+WL002,Mohammed Ali,1985-04-12,Iran,HIGH,UN
+WL003,Ahmed Hassan,1978-09-03,Syria,HIGH,OFAC
+WL004,Ivan Petrov,1981-02-19,Russia,MEDIUM,EU
+WL005,Chen Wei,1990-11-25,China,LOW,PEP
+WL006,Carlos Rodriguez,1987-08-14,Mexico,LOW,PEP
+WL007,Ali Reza,1979-06-21,Iran,HIGH,UN
+WL008,Kim Min Soo,1984-03-17,North Korea,HIGH,OFAC
+WL009,Maria Garcia,1991-12-09,Spain,LOW,PEP
+WL010,David Brown,1988-07-30,United Kingdom,LOW,PEP
+WL011,Abdul Rahman,1980-01-18,Pakistan,MEDIUM,UN
+WL012,Omar Khalid,1986-05-27,Syria,HIGH,OFAC
+WL013,Wei Zhang,1993-10-10,China,LOW,PEP
+WL014,James Wilson,1982-04-05,United States,LOW,PEP
+WL015,Michael Lee,1975-10-02,Hong Kong,MEDIUM,EU
+WL016,Sarah Johnson,1994-09-08,Canada,LOW,PEP
+WL017,Robert Miller,1983-11-22,Germany,LOW,PEP
+WL018,Hassan Ibrahim,1977-07-13,Iraq,HIGH,UN
+WL019,Olga Ivanova,1989-02-11,Russia,MEDIUM,EU
+WL020,Fatima Noor,1995-01-29,Pakistan,MEDIUM,UN

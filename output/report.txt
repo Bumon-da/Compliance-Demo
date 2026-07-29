@@ -1,0 +1,40 @@
+============================================================
+AI-AUGMENTED INTERBANK COMPLIANCE REPORT
+============================================================
+
+Generated : 2026-07-29 21:48:04.760035
+
+CUSTOMER INFORMATION
+--------------------
+Name      : Jon Smith
+DOB       : 1992-06-15
+Country   : Germany
+Amount    : $25,000
+
+ENTITY RESOLUTION
+-----------------
+Matched           : True
+Matched Name      : John Smith
+Similarity        : 99.74%
+Risk Level        : HIGH
+Sanction List     : OFAC
+
+AI PREDICTION
+-------------
+Prediction : FALSE POSITIVE
+Confidence : 98.00%
+
+TOP AI FACTORS
+--------------
+amount              +0.1558
+previous_history    +0.1354
+country_risk        +0.1296
+name_similarity     -0.0421
+dob_match           -0.0020
+
+BLOCKCHAIN
+----------
+Transaction ID : TX00001
+Hash           : 0ecef0a14bf6664963a3740a884fcd1fadc72a571f3057ec1006a75fb85b9f27
+
+============================================================
