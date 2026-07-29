@@ -209,4 +209,4 @@ The project is intended as a foundation for future research into enterprise-grad
 
 ## License
 
-This project is intended for educational, academic, and research purposes. Commercial use should be evaluated based on the licensing requirements of any third-party libraries or datasets incorporated into future versions.
+This project is intended for educational and research 
