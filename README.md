@@ -211,7 +211,7 @@ The project is intended as a foundation for future research into enterprise-grad
 
 This project is intended for educational and research purposes.#
 
-UPDATING THE README FILE 
+## UPDATING THE README FILE 
 
                           AI-Augmented Interbank Compliance Network
 
